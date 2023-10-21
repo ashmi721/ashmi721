@@ -1,7 +1,7 @@
 ![logo](https://github.com/ashmi721/ashmi721/blob/main/big-data.webp)
 <h1 align="center">Hi 👋, I'm Ashmita Kunwar</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-146/Big-data-Vs-DS_DA_image2.png">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3PFV687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmi721&label=Profile%20views&color=0e75b6&style=flat" alt="ashmi721" /> </p>
 
