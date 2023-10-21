@@ -1,13 +1,13 @@
 ![logo](https://github.com/ashmi721/ashmi721/blob/main/big-data.webp)
 <h1 align="center">Hi 👋, I'm Ashmita Kunwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from Nepal</h3>
 <img align="coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmi721&label=Profile%20views&color=0e75b6&style=flat" alt="ashmi721" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashmita kunwar(@ashmitakunwar721)" target="blank"><img src="https://img.shields.io/twitter/follow/ashmita kunwar(@ashmitakunwar721)?logo=twitter&style=for-the-badge" alt="ashmita kunwar(@ashmitakunwar721)" /></a> </p>
 
-- 🌱 I’m currently learning **Python + Django**
+- 🌱 I’m currently learning **Python + Django + Data Science**
 
 - 📫 How to reach me **ashmitak721@gmail.com**
 
