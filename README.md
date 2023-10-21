@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmi721&label=Profile%20views&color=0e75b6&style=flat" alt="ashmi721" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashmita kunwar(@ashmitakunwar721)" target="blank"><img src="https://img.shields.io/twitter/follow/ashmita kunwar(@ashmitakunwar721)?logo=twitter&style=for-the-badge" alt="ashmita kunwar(@ashmitakunwar721)" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashmita kunwar(@ashmitakunwar721)" target="blank"><img src="https://img.shields.io/twitter/follow/ashmita kunwar(@Ashmitakun721)?logo=twitter&style=for-the-badge" alt="ashmita kunwar(@Ashmitakun721)" /></a> </p>
 
 - 🌱 I’m currently learning **Python + Django + Data Science**
 
