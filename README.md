@@ -1,7 +1,7 @@
 ![logo](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)
 <h1 align="center">Hi 👋, I'm Ashmita Kunwar</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-<img align="coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmi721&label=Profile%20views&color=0e75b6&style=flat" alt="ashmi721" /> </p>
 
