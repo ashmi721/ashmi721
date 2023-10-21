@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/ashmi721/ashmi721/blob/main/big-data.webp)
 <h1 align="center">Hi 👋, I'm Ashmita Kunwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
