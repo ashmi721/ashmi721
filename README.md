@@ -1,5 +1,5 @@
-![logo](https://github.com/ashmi721/ashmi721/blob/main/big-data.webp)
-<h2 align="center">Hi 👋, I'm Ashmita Kunwar</h2>
+
+<h2 align="center">Hi there👋, I'm Ashmita Kunwar</h2>
 <h4 align="center">Python Developer || Data Science || Machine Learning</h4>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashmita kunwar(@ashmitakunwar721)" target="blank"><img src="https://img.shields.io/twitter/follow/ashmita kunwar(@Ashmitakun721)?logo=twitter&style=for-the-badge" alt="ashmita kunwar(@Ashmitakun721)" /></a> </p>
 
-- 🌱 I’m currently learning **Python + Django + Data Science**
+- 🌱 I’m currently learning **Python + Data Science + Machine Learning + Deep Learning + NlP**
 
 - 📫 How to reach me **ashmitak721@gmail.com**
 
